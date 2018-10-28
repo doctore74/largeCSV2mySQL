@@ -10,7 +10,7 @@
 <p> This Php Script Will Import very large CSV files to MYSQL database in a minute</p>
 
 </br>
-<form class="form-horizontal"action="csv2sql.php" method="post">
+<form class="form-horizontal"action="#" method="post">
     <div class="form-group">
         <label for="mysql" class="control-label col-xs-2">Mysql Server address (or)<br>Host name</label>
 		<div class="col-xs-3">
